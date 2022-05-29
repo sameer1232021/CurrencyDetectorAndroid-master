@@ -38,7 +38,7 @@ public class ResetPassword extends AppCompatActivity {
         auth = FirebaseAuth.getInstance();
         emailEditText = findViewById(R.id.email);
         resetB = findViewById(R.id.resetB);
-        backB = findViewById(R.id.backB);
+        backB = findViewById(R.id.backButton);
 
         progressBar = new Dialog(ResetPassword.this);
         progressBar.setContentView(R.layout.dialog_layout);
