@@ -80,7 +80,12 @@ Teachable ML
 
 ## Requirements
 
-*   Android Studio 3.2 (installed on a Linux, Mac or Windows machine)
+*  Android Studio Arctic Fox | 2020.3.1 Patch3 (installed on a Linux, Mac or Windows machine)
+  
+*  Gradle Version 7.0.2
+
+*  Gradle plugin version 7.0.3
+
 
 *   Android device in
     [developer mode](https://developer.android.com/studio/debug/dev-options)
