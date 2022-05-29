@@ -9,9 +9,18 @@ This app uses Image classification Machine learning model which is based on Supe
 
 2.) Tech stacks used in the project
 
-3.) Instruction for testing the app
+3.) Application
 
-4.) Application of the project
+4.) Model
+
+5.) Requirements
+
+6.) Build and Run
+
+7.) Asset Folder
+
+8.) Chage phone number
+
 
 
 # Working of the app
@@ -59,7 +68,7 @@ The special format model can be deployed on edge devices like mobiles using Andr
 The deployment of the Tensorflow model on Android was done using TensorFlowLite library
 
 # Application
-This could be deployed in survillance CCTV cameras and can also be used in Survillance drones.
+This could be deployed in survillance CCTV cameras and can also be used in Survillance drones for increased mobility.
 
 ### Model
 Inside Assests folder zip file is there.
@@ -81,7 +90,7 @@ Teachable ML
 
 ## Build and run
 
-### Step 1. Clone the TensorFlow examples source code
+### Step 1. Clone the Face-Track source code
 
 Clone the TensorFlow examples GitHub repository to your computer to get the demo
 application.
