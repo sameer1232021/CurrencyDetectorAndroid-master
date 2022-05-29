@@ -19,7 +19,7 @@ This app uses Image classification Machine learning model which is based on Supe
 
 7.) Asset Folder
 
-8.) Chage phone number
+8.) Change phone number
 
 
 
